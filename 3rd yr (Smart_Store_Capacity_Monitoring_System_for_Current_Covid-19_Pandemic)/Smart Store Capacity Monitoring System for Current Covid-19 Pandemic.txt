@@ -1,0 +1,8 @@
+Smart Store Capacity Monitoring System for Current Covid-19 Pandemic
+
+This project proposes a smart store capacity monitoring system using an arduino PIR sensor
+ to monitor the number of people inside a store. Using a PIR sensor, it will detect the 
+entry and exit of a person, and all of the data will be displayed on an LCD. The system 
+will have a modifiable limit for the capacity and will respond to the set capacity through 
+a buzzer alarm. Having this feature on a store will help to manage the people coming 
+inside without assigning an employee who will regularly check and count the people inside. 

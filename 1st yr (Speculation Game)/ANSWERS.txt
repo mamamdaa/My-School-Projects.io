@@ -1,0 +1,10 @@
+1. tkinter
+2. button
+3. canvas
+4. entry
+5. frame
+6. label
+7. listbox
+8. menu
+9. text
+10. checkbutton

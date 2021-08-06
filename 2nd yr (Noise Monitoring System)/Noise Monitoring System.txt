@@ -1,0 +1,12 @@
+Noise Monitoring System
+
+This project desires to maintain quietness and peace inside the library by measuring the 
+level of noise.
+
+Noise monitoring system is simply a device with microphone sound sensor that is 
+controlled by Arduino Uno, which is an open-source microcontroller board. This project 
+focuses on measuring the various sound levels present in a library. The microphone sound 
+sensor detects sound. It gives a measurement of how loud a sound is. Microphone sensor will
+ detect the sound intensity of surroundings and will light up an LED based on the sound leve
+l detected if it reach the max level the buzzer will turn on and a warning sign will print 
+in LCD.
